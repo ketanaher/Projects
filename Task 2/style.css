@@ -27,6 +27,7 @@ html, body {
   width: 291px;
   font-size: 20px;
     margin: 0;
+    margin-bottom: 40px;
     padding: 10px 0px;
     border: 2px solid black;
     border-radius: 5px;
@@ -38,7 +39,7 @@ html, body {
   background-color: aqua;
 }
 .container{
-  max-width: 25vw;
+  max-width: 20vw;
   background-color: aqua;
   border: 2px solid black;
   border-radius: 8px;
